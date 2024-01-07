@@ -9,6 +9,13 @@
 
 
 
+
+
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Busedkc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Busedkc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+
+
+
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
@@ -20,7 +27,3 @@
 <br />
 
 <br />
-
-
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Busedkc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Busedkc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
