@@ -7,15 +7,16 @@
   - 🥅 2024 Goals: Develop an artificial intelligence project 🤖
   - ⚡ Fun fact: I love running 🏃🏻‍♀️, horses 🐎, and reading philosophical books 📚
 
+  <br />
+  <br />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Busedkc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Busedkc&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+
   ### 📩 Connect with me:
   [<img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
   [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 
   [linkedin]: https://www.linkedin.com/in/buse-dikici-637938220/
   [instagram]: https://www.instagram.com/busespassion
-
-  <br />
-  <br />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Busedkc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Busedkc&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 </div>
