@@ -8,13 +8,6 @@
   - 🥅 2024 Goals: Develop an artificial intelligence project 🤖
   - ⚡ Fun fact: I love running 🏃🏻‍♀️, horses 🐎, and reading philosophical books 📚
 
-  ### 📩 Connect with me:
-  [<img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-  [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-
-  [linkedin]: https://www.linkedin.com/in/buse-dikici-637938220/
-  [instagram]: https://www.instagram.com/busespassion
-
   <br />
   <br />
   
