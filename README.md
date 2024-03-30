@@ -3,7 +3,7 @@
 
   ## I am a Computer Engineering Student 👨‍🎓!
   - 🌱 Always learning 
-  - 🥅 2024 Goals: Develop an artificial intelligence project 🤖, making small projects with my project group 
+  - 🥅 2024 Goals: Develop an artificial intelligence project 🤖
   - ⚡ Fun fact: I love running 🏃🏻‍♀️, horses 🐎, and reading philosophical books 📚
 
   <br />
