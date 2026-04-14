@@ -1,9 +1,15 @@
 <div align="center">
-  <h2>I am a Computer Engineering Student</h2>
-  <p>🌱 I want to develop myself in machine learning and data science</p>
+  <h2>
+    Computer Engineering Student (Graduating in 2 Months) <br>
+    ML & Data Science Enthusiast | Open to Full-Time Roles
+  </h2>
 </div>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Busedkc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Busedkc&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
-</div>
+---
+
+## 🌱 About Me
+
+- 🎯 Focused on **Machine Learning, Data Science, and Software Development**
+- 🛠️ Learning by building **real-world projects**
+- 📈 Continuously improving technical and problem-solving skills
+- 💼 Open to **full-time entry-level opportunities**
