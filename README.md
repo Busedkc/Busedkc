@@ -14,5 +14,5 @@ AI/ML engineer interested in forecasting, deep learning, recommendation systems,
 
 ### Let's connect
 - 🌐 Portfolio: [buse-dev.busedikici001.workers.dev](https://buse-dev.busedikici001.workers.dev/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/buse-dikici-637938220/)
-- ✉️ buseedkc@gmail.com.edu.tr
+- 💼 Linkedin: [LinkedIn](https://www.linkedin.com/in/buse-dikici-637938220/)
+- ✉️ Mail: buseedkc@gmail.com.edu.tr
