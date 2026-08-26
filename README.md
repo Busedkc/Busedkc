@@ -1,15 +1,18 @@
-<div align="center">
-  <h2>
-    Computer Engineering Student (Graduating in 2 Months) <br>
-    ML & Data Science Enthusiast | Open to Full-Time Roles
-  </h2>
-</div>
+# Hi, I'm Buse 👋
 
----
+AI/ML engineer interested in forecasting, deep learning, recommendation systems, and end-to-end product development.
 
-## 🌱 About Me
+- Into: Time Series · LLM Apps · Computer Vision · Recommendation Systems · RAG 
 
-- Focused on **Machine Learning, Data Science, and Software Development**
-- Learning by building **real-world projects**
-- Continuously improving technical and problem-solving skills
-- Open to **full-time entry-level opportunities**
+### Toolkit
+- **Machine Learning:** Prophet, XGBoost, Random Forest, SVR, LSTM, TimesNet, Scikit-learn, Statsmodels
+- **Deep Learning:** PyTorch, CNNs (ResNet18, EfficientNet), CLIP
+- **Programming:** Python, TypeScript/JavaScript, SQL
+- **Tools & MLOps:** FastAPI, Flask, MongoDB, REST APIs, Git
+- **Data & Viz:** Pandas, NumPy, Matplotlib, Seaborn
+- **Web:** React, Tailwind CSS, HTML/CSS
+
+### Let's connect
+- 🌐 Portfolio: [buse-dev.busedikici001.workers.dev](https://buse-dev.busedikici001.workers.dev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/buse-dikici-637938220/)
+- ✉️ buseedkc@gmail.com.edu.tr
